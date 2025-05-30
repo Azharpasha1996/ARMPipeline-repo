@@ -20,7 +20,7 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Azharpasha1996/ARMPipeline-repo/refs/heads/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName azure-tutorial'
+    overrideParameters: '-projectName azure'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipe'
 
